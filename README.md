@@ -1,7 +1,7 @@
 ![Banner](https://github.com/sayantancodex/sayantancodex/blob/main/coder.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Somhrita Joardar</h1>
-<h3 align="center">Student | Diploma CSE | Python, and Web Developer | Passionate about Tech and Learning</h3>
+<h3 align="center">Student | Diploma CST | Python, and Web Developer | Passionate about Tech and Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somhrita-joardar&label=Profile%20views&color=0e75b6&style=flat" alt="somhrita-joardar" /> </p>
 
