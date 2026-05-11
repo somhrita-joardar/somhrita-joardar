@@ -4,7 +4,7 @@
 <br/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=100&lines=SOMHRITA+JOARDAR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=1&pause=99999&color=D4AF37&center=true&vCenter=true&width=700&height=100&lines=SOMHRITA+JOARDAR" />
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Diploma+CST+Student;Python+%7C+Java+%7C+Web+Dev;Cybersecurity+Enthusiast;Can+talk+all+day...+%F0%9F%92%AC)
