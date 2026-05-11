@@ -42,6 +42,7 @@
 ---
 
 ## 🛠️ Tech Stack
+<img align="right" src="https://github.com/somhrita-joardar/somhrita-joardar/blob/main/octocat-1778517487314.png" width="350" />
 
 **Languages**
 
@@ -101,8 +102,14 @@
 <img src="https://github-profile-trophy.vercel.app/?username=somhrita-joardar&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
 
 </div>
+<div>
+</div>
+<br></br>
+
 
 ---
+
+
 
 <div align="center">
 
